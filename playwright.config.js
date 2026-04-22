@@ -27,7 +27,7 @@ export default defineConfig({
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
   baseURL: 'https://www.saucedemo.com',           // set once, used everywhere
-  trace: 'retain-on-failure',                     // save trace when test fails
+  trace: 'on',                     // save trace when test fails
   screenshot: 'only-on-failure',                  // screenshot on failure
   video: 'retain-on-failure',                     // video on failure
   testIdAttribute: 'data-test',                   // saucedemo uses data-test
