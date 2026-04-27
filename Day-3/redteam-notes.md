@@ -5,7 +5,7 @@
 **Test framework:** promptfoo with LLM-as-judge grader
 **Date:** April 26, 2026
 **Sprint duration:** 60 minutes
-**Author:** Sadiksha — Beta Ninjas QA, Day 3 Capstone
+**Author:** Sadiksha : Beta Ninjas QA, Day 3 Capstone
 
 ---
 
